@@ -1,0 +1,35 @@
+PARTIE THÉORIQUE
+1. An API which stands fro application Programming Interface , acts as a massenger between different sotware programs. It is a set of rules and protocols that allows different applications to communicate and intereact with each other. It explains how different components of software systems should interact and exchange data.
+
+Example: Ordering food from a delivery app(App1). You browse the menu (data) on the app, but the app itself doesn't cook the food (doesn't have that functionality).
+An API acts like a waiter in this scenario. You tell the app (App 1) what you want (your request), and the API relays that message (your request) to the restaurant's system (App 2). The restaurant then prepares your food (performs the action you requested) and sends it back with the waiter (API). Finally, the app receives your food (gets the response) and shows it to you (delivers the results).
+This way, even though the app itself can't cook, it can still get you food (data or perform an action) by using the waiter (API) to communicate with the restaurant (another application).
+
+
+2.
+A webhook is a method of communication between two systems where one system sends an HTTP request to a specific URL( known as the webhook URL) and the other system responds to that request. It is a way for systems to notify each other about events or trigger actions.
+
+An example of webhook usage is in a web application that needs to receive real-time updates about new orders. The application can set up a webhook to receive notifications whenever a new order is placed, allowing it to take immediate action.
+
+
+3.
+A relational database organizes data into structured tables with predefined schemas, and the relationships between the tables are defined using primary and foreign keys. It enforces data integrity and supports complex queries using SQL (Structured Query Language). Relational databases are suitable for applications with well-defined data structures and relationships, such as banking systems or e-commerce platforms.
+
+On the other hand, a non-relational database (also known as NoSQL) does not adhere to a fixed schema and offers more flexible data models. It can store unstructured or semi-structured data, such as documents, key-value pairs, or graph structures. Non-relational databases are often used in scenarios where the data is constantly changing and the schema may evolve over time, like in social media platforms or big data applications Eg. MongoDB, Firebase Fire store.
+
+4.
+Yes, I have knowledge with the Python programming language. Python is a popular high-level programming language known for its simplicity and readability. It has a wide range of applications, including web development, data analysis, machine learning, and automation. Python's extensive standard library and large ecosystem of third-party packages make it a versatile language for various tasks. I can assist with Python-related questions, provide code examples, and help with problem-solving.
+
+5.
+Yes, I am familiar with WordPress and but a little idea on Odoo but i havent used it before.
+
+WordPress is a widely used content management system (CMS) that allows users to create and manage websites easily. It offers a user-friendly interface, customizable themes, and a wide range of plugins for added functionality. WordPress is popular for blogs, business websites, and e-commerce platforms.
+
+Odoo, on the other hand, is an open-source enterprise resource planning (ERP) system that provides a suite of integrated business applications. It includes modules for various business functions like sales, inventory management, accounting, and human resources. Odoo offers flexibility, scalability, and customization options, making it suitable for small to large organizations.
+
+
+
+
+
+
+
